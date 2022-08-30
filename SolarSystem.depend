@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619554040 source:c:\users\karthik\documents\cg mini-project\solarsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+
